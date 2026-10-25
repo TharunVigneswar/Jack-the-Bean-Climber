@@ -2,13 +2,13 @@
 
 Welcome to **Jack the Bean Climber**, a fantasy action-adventure game inspired by the classic fairy tale *Jack and the Beanstalk*!
 
-Enter a gigantic tree tower, battle monsters lurking within, and fight your way to the top to face the mighty Giant.
+Enter a gigantic tree tower, face the mighty Giant.
 
 ## About the Game
 
 Jack the Bean Climber is an action-adventure game where you venture into a massive tree tower filled with dangerous monsters.
 
-Your goal is simple: fight your way through the tower, defeat the creatures standing in your way, and take on the Giant waiting at the top!
+Your goal is simple: Take on the Giant waiting at the top!
 
 ## Requirements
 
