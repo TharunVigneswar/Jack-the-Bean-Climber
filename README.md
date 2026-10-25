@@ -1,6 +1,6 @@
-# Jack the Bean Climber
+# Jack the Bean Adventurer
 
-Welcome to **Jack the Bean Climber**, a fantasy action-adventure game inspired by the classic fairy tale *Jack and the Beanstalk*!
+Welcome to **Jack the Bean Adventurer**, a fantasy action-adventure game inspired by the classic fairy tale *Jack and the Beanstalk*!
 
 Enter a gigantic tree tower, face the mighty Giant.
 
