@@ -16,11 +16,11 @@ Make sure you have the necessary game files and dependencies installed to run th
 
 ## Instructions
 
-Download the game and extract the files if necessary.
+If not already installed, extract the Runtime Package for RPG Maker.
 
-Launch the game using the provided executable and begin your adventure!
+Run the game's executable. This will create a folder containing the game and its source code.
 
-Explore the tower, battle monsters, and make your way towards the final boss.
+Once everything is ready, launch the game and begin your adventure!
 
 ## Controls
 
