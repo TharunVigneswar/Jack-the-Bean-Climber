@@ -24,8 +24,13 @@ Once everything is ready, launch the game and begin your adventure!
 
 ## Controls
 
-Check the in-game instructions for the available controls.
-
+Alt + Enter = fullscreen to make game go biiiiig  
+up arrow key to move up  
+down arrow key to move down  
+right arrow key to move right  
+left arrow key to move left  
+Enter/Space to confirm  
+  
 ## THANKS FOR PLAYING
 
 Feedback appreciated!
